@@ -1,0 +1,3 @@
+module mongo-learn
+
+go 1.23.3
